@@ -1,0 +1,23 @@
+{
+  "name": "tea_genius",
+  "version": "1.0.0",
+  "description": "Tea app 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Belfort717/tea_genius.git"
+  },
+  "dependencies": {
+    "tea_belfort717": "1.0.0",
+    "richy13-app": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belfort717/tea_genius/issues"
+  },
+  "homepage": "https://github.com/Belfort717/tea_genius#readme"
+}
